@@ -1,0 +1,26 @@
+{
+  "name": "wepachi",
+  "version": "1.0.0",
+  "description": "A Puerto Rican virtual coquí pet powered by Claude AI. Raise your pixel-art frog — feed it pastelillos, fuel it with cafecito, and make it dance salsa.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianramirez/wepachi.git"
+  },
+  "author": "Gian Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gianramirez/wepachi/issues"
+  },
+  "homepage": "https://github.com/gianramirez/wepachi#readme"
+}
